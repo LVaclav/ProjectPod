@@ -1,4 +1,3 @@
-#!/usr/bin/env 
 import os
 import subprocess
 from termcolor import colored
