@@ -1,4 +1,4 @@
-#!usr/bin/bash
+#!/bin/bash
 YELLOW='\033[0;93m'
 NC='\033[0m' 
 echo "${YELLOW}Update begins! ${NC}"
